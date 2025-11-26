@@ -19,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nguyễn vương văn khiêm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyễn vương văn khiêm" height="30" width="40" /></a>
 <a href="https://fb.com/nguyễn van khiem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyễn van khiem" height="30" width="40" /></a>
 </p>
 
