@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Vương Văn Khiêm</h1>
 <h3 align="center">A passionate Fullstack Developer crafting seamless web experiences from front to back.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khiemvuong2310&label=Profile%20views&color=0e75b6&style=flat" alt="khiemvuong2310" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khiemvuong2310" alt="khiemvuong2310" /></a> </p>
-
 - 🔭 I’m currently working on [Finamon Product](https://github.com/PTPhongKMF/finamon-web-app)
 
 - 🌱 I’m currently learning **Next.js, Tailwind CSS, Node.js, Docker , C#**
