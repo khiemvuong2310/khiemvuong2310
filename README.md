@@ -1,48 +1,75 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Vương Văn Khiêm</h1>
-<h3 align="center">A passionate Fullstack Developer crafting seamless web experiences from front to back.</h3>
+<div align="center">
+  <h1>Hi there, I'm Nguyễn Vương Văn Khiêm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <p>🚀 <strong>Fullstack Developer</strong></p>
 
-- 🔭 I’m currently working on [Finamon Product](https://github.com/PTPhongKMF/finamon-web-app)
-- 🌱 I’m currently learning **Next.js, Tailwind CSS, Node.js, Docker, C#**
-- 👨‍💻 All of my projects are available at [https://github.com/khiemvuong2310](https://github.com/khiemvuong2310)
-- 💬 Ask me about **React, C#, and GSAP animations**
-- 📫 How to reach me **nguyenvuongvankhiem1132@gmail.com**
-- ⚡ Fun fact **I think I am funny 😄**
+  <p>
+    <img src="https://img.shields.io/badge/Full_Stack_Developer-💻-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="Full Stack Developer">
+    <img src="https://img.shields.io/badge/.NET_&_C%23-Expert-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# and .NET">
+    <img src="https://img.shields.io/badge/React.js-🚀-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/Node.js-🌱-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  </p>
+</div>
 
----
+### 🎯 Professional Summary
+A passionate **Fullstack Developer** crafting seamless web experiences from front to back. I enjoy working on dynamic projects like the **[Finamon Product](https://github.com/PTPhongKMF/finamon-web-app)** and specialize in technologies like **React.js, Node.js, C#, and GSAP animations**. I am constantly learning and adapting, currently focusing on expanding my expertise in **Next.js, Tailwind CSS, and Docker** to build innovative and high-performing solutions.
 
-### 🤝 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/nguyenvuongvankhiem" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyen-vuong-van-khiem" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/nguyenvankhiem" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyen-van-khiem" height="30" width="40" />
-  </a>
+*⚡ Fun fact: I think I am funny 😄*
+
+### 👨‍💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nodejs,ts,js,html,css,tailwind,bootstrap,mongodb,mysql,firebase,aws,azure,docker,git,figma,android,c,py,blender&perline=11" alt="Tech Stack">
+</p>
+
+<p align="center">
+  <b>Frontend:</b> React.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap <br>
+  <b>Backend:</b> Node.js, C#, .NET, C, Python | <b>Databases:</b> MongoDB, MySQL, Firebase <br>
+  <b>Tools & Cloud:</b> Git, Docker, AWS, Azure, Figma, Blender, Android
 </p>
 
 ---
 
-### 🛠 Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</p>
+### 📈 GitHub Activities & Stats
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=khiemvuong2310&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff" width="100%" alt="Activity Graph">
+      </td>
+      <td width="50%" align="center">
+        <img src="https://streak-stats.demolab.com?user=khiemvuong2310&theme=dark&background=0D1117&border=444&ring=58A6FF&fire=FF8C00" width="100%" alt="GitHub Streak">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+         <img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=khiemvuong2310&layout=compact&theme=synthwave" alt="Top Languages">
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khiemvuong2310/khiemvuong2310/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khiemvuong2310/khiemvuong2310/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khiemvuong2310/khiemvuong2310/output/github-contribution-grid-snake.svg" width="700">
+  </picture>
+</div>
+
+---
+
+### 🤝 Connect with me
+<div align="center">
+  <a href="https://linkedin.com/in/nguyenvuongvankhiem" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://fb.com/nguyenvankhiem" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="mailto:nguyenvuongvankhiem1132@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
